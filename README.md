@@ -1,2 +1,2 @@
-# borda_count
+## borda_count
 Implementation of Borda count voting method
