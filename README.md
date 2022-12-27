@@ -9,13 +9,13 @@ The borda count voting method score is based on the metrics, columns in *conside
 The implementation is done in python3, pandas for files reading, dictionary for storing the ranked models, and
 dataframe for returning the ranked models.
 
-### Bofore application of Borda count
+### Bofore applying Borda count
 
-<p align="center">
+<p>
 <img src="data/before.png" alt="borda count results">
+</p>
 
 ###  Borda count result(on Accuracy, Precision, Recall, F1-Score metrics)
-</p>
 <p align="center">
 <img src="data/borda_count_results.png" alt="borda count results">
 </p>
